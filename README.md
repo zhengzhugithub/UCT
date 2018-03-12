@@ -8,10 +8,10 @@ This paper is accepted by ICCV2017 Workshop and available at
 
 If you find UCT useful in your research, please consider citing:
 
-@InProceedings{UCT_Zhu_ICCVW2017,
-author = {Zhu, Zheng and Huang, Guan and Zou, Wei and Du, Dalong and Huang, Chang},
-title = {UCT: Learning Unified Convolutional Networks for Real-Time Visual Tracking},
-booktitle = {Proceedings of the IEEE International Conference on Computer Vision Workshops},
-month = {Oct},
-year = {2017},
+@InProceedings{UCT_Zhu_ICCVW2017,\\
+author = {Zhu, Zheng and Huang, Guan and Zou, Wei and Du, Dalong and Huang, Chang},\\
+title = {UCT: Learning Unified Convolutional Networks for Real-Time Visual Tracking},\\
+booktitle = {Proceedings of the IEEE International Conference on Computer Vision Workshops},\\
+month = {Oct},\\
+year = {2017},\\
 }
